@@ -1,6 +1,8 @@
 <h1>Simple Book Library System</h1>
 <p>This is a simple Book Library System developed to demonstrate the key concepts of Object-Oriented Programming (OOP) in Java. The system allows users to create books, borrow book, and return book to the library.</p>
 
+<p>Documentation URL: <a href="https://sterbye.github.io/Book-Library-System/">Book Library System docs</a></p>
+
 <ul><h3>OOP Concepts Demonstrated</h3>
 <li>Classes/Abstract classes and Objects</li>
 <li>Inheritance</li>
